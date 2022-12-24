@@ -148,25 +148,42 @@ output =
 Info: Veiculo 1
 
 Preco estimado: RS 151200,00
-        Subtipo: Caminhao
-        Velocidade maxima: 120 km/h
-        Capacidade de passageiros: 1
-        Carga maxima: 1000 kg
+     
+     Subtipo: Caminhao
+     
+     Velocidade maxima: 120 km/h
+     
+     Capacidade de passageiros: 1
+     
+     Carga maxima: 1000 kg
 
 Info: Veiculo 2
+
 Preco estimado: RS 71000,00
+
         Subtipo: Caminhao
+
         Velocidade maxima: 100 km/h
+
         Capacidade de passageiros: 4
+
         Carga maxima: 200 kg
 
+
 Info: Veiculo 3
+
 Preco estimado: RS 600800,00
+
         Subtipo: CaminhaoAutonomo
+
         Velocidade maxima: 80 km/h
+
         Capacidade de passageiros: 0
+
         Carga maxima: 1000 kg
+
         Fabricante: Tesla
+
 
 Destrutor Caminhao
 
@@ -179,8 +196,13 @@ Destrutor Caminhao
 Destrutor Veiculo
 
 Info: Veiculo 2
+
 Preco estimado: RS 71000,00
+
         Subtipo: Caminhao
+
         Velocidade maxima: 100 km/h
+
         Capacidade de passageiros: 4
+
         Carga maxima: 200 kg
