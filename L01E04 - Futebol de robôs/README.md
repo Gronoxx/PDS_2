@@ -32,37 +32,67 @@ Para ilustrar, abaixo são apresentados exemplos de entrada/saída.
 Nesse primeiro exemplo, é informado o tamanho do time e as informações dos robôs. O comando 's' é usado para imprimir os estados e o comando 'm' move o Robô '0'.
 
 input =
+
 3
+
 0.0 0.0 1
+
 2.0 0.0 0
+
 4.0 0.0 0
+
 s
+
 m 0 1.0 0.0 1.0
+
 s
+
 output =
+
 0       0.00    0.00    1       100.00
+
 1       2.00    0.00    0       100.00
+
 2       4.00    0.00    0       100.00
+
 0       1.00    0.00    1       99.00
+
 1       2.00    0.00    0       100.00
+
 2       4.00    0.00    0       100.00
+
 
 Neste segundo exemplo o comando 'b' é usado para informar que o Robô '0' (primeiro informado) deve passar a bola para o robô mais próximo, no caso o Robô '1' (segundo informado).
 
 input =
+
 3
+
 0.0 0.0 1
+
 2.0 0.0 0
+
 4.0 0.0 0
+
 s
+
 b 0
+
 s
+
 output =
+
 0       0.00    0.00    1       100.00
+
 1       2.00    0.00    0       100.00
+
 2       4.00    0.00    0       100.00
+
 0       0.00    0.00    0       100.00
+
 1       2.00    0.00    1       100.00
+
 2       4.00    0.00    0       100.00
+
 
 ATENÇÃO: Lembre-se de fazer a correta modularização utilizando os arquivos .hpp e .cpp.
