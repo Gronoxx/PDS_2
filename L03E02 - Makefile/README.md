@@ -2,19 +2,33 @@ Você possui um programa bem simples. Nele, Herói e Vilão herdam de Personagem
 
 O projeto está estruturado de acordo com a hierarquia de diretórios abaixo:
 
+
 . programa
+
 ├── Makefile
+
 ├── build/
+
 │  └── [arquivos.o]
+
 ├── include/
+
 │  └── Heroi.hpp
+
 │  └── Personagem.hpp
+
 │  └── Vilao.hpp
+
 └── src/
+
 │  └── entidades/
+
 │    └── Heroi.cpp
+
 │    └── Personagem.cpp
+
 │    └── Vilao.cpp
+
 │  └── main.cpp
 
 O seu objetivo é unicamente escrever um arquivo Makefile para esse programa, seguindo as seguintes orientações:
