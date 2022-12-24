@@ -13,7 +13,7 @@ L01E04 - Futebol de robôs (3,0 pts)
 
 L01E05 - PDS-fy (3,0 pts) 
 
-
+========================
 
 Lista 2 (Prazo: 06/10/22)
 
@@ -23,7 +23,7 @@ L02E02 - CineReview (4,0 pts)
 
 L02E03 - E-commerce (4,0 pts) 
 
-
+========================
 
 Lista 3 (Prazo: 01/11/22)
 
@@ -35,7 +35,7 @@ L03E03 - Pilha Polimórfica (3,0 pts)
 
 L03E04 - Aquário de Ponteiros (4,0 pts)
 
-
+========================
 
 Lista 4 (Prazo: 17/11/22)
 
